@@ -14,4 +14,4 @@ Nano - *CLI-based text ediotr*\
 <a href="https://www.linkedin.com/in/cse-ram"><img src="https://images.app.goo.gl/E6SNjLedZwg4eXJ59" title="LinkedIn" alt="linkedin-icon" height=40 width=40></a>
 
 **OR**<br>
-Drop me a mail [here](mailto:ramkumarmirchandani@gmail.com)
+Drop me a mail [here] (mailto:ramkumarmirchandani@gmail.com)
